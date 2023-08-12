@@ -126,8 +126,8 @@
                       <option value="Electronics">Electronics</option>
                       <option value="Grocery&Market">Grocery & Market</option>
                       <option value="Health&Beauty">Health & Beauty</option>
-                      <option value="Home&Kitchen">Home & Kitchen</option>
-                      <option value="Home&Furniture">Home & Furniture</option>
+                      <option value="Dashboard&Kitchen">Dashboard & Kitchen</option>
+                      <option value="Dashboard&Furniture">Dashboard & Furniture</option>
                       <option value="Health&Beauty">Health & Beauty</option>
                       <option value="Sport&Outdoor">Sport & Outdoor</option>
                       <option value="Toy&VideoGames">Toy & Video Games</option>
@@ -255,9 +255,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -272,7 +272,7 @@
                   </div>
                 </div>
               </li>
-              <li> <a class="dropdown" href="/guest_assets/#"> <span class="menu-icn flaticon-cooking"></span> <span class="menu-title">Home & Kitchen</span> </a>
+              <li> <a class="dropdown" href="/guest_assets/#"> <span class="menu-icn flaticon-cooking"></span> <span class="menu-title">Dashboard & Kitchen</span> </a>
                 <div class="drop-menu">
                   <div class="one-third">
                     <div class="cat-title">Electronics</div>
@@ -323,9 +323,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -340,7 +340,7 @@
                   </div>
                 </div>
               </li>
-              <li> <a class="dropdown" href="/guest_assets/#"> <span class="menu-icn flaticon-armchair"></span> <span class="menu-title">Home & Furniture</span> </a>
+              <li> <a class="dropdown" href="/guest_assets/#"> <span class="menu-icn flaticon-armchair"></span> <span class="menu-title">Dashboard & Furniture</span> </a>
                 <div class="drop-menu">
                   <div class="one-third">
                     <div class="cat-title">Electronics</div>
@@ -391,9 +391,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -459,9 +459,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -527,9 +527,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -595,9 +595,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -663,9 +663,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -731,9 +731,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -799,9 +799,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -867,9 +867,9 @@
                     </ul>
                   </div>
                   <div class="one-third">
-                    <div class="cat-title">Smart Home</div>
+                    <div class="cat-title">Smart Dashboard</div>
                     <ul class="mb20">
-                      <li><a href="/guest_assets/#">Shop All Smart Home</a></li>
+                      <li><a href="/guest_assets/#">Shop All Smart Dashboard</a></li>
                       <li><a href="/guest_assets/#">Smart Assistants & Hubs</a></li>
                       <li><a href="/guest_assets/#">Smart Security</a></li>
                       <li><a href="/guest_assets/#">Smart Energy & Lighting</a></li>
@@ -889,19 +889,19 @@
         </div>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu menu_list_custom_code wa pl200" data-menu-style="horizontal">
-          <li class="visible_list"> <a href="/guest_assets/#"><span class="title">Home</span></a>
+          <li class="visible_list"> <a href="/guest_assets/#"><span class="title">Dashboard</span></a>
             <!-- Level Two-->
             <ul>
-              <li><a href="/guest_assets/index1.html">Home V1</a></li>
-              <li><a href="/guest_assets/index2.html">Home V2</a></li>
-              <li><a href="/guest_assets/index3.html">Home V3</a></li>
-              <li><a href="/guest_assets/index4.html">Home V4</a></li>
-              <li><a href="/guest_assets/index5.html">Home V5</a></li>
-              <li><a href="/guest_assets/index6.html">Home V6</a></li>
-              <li><a href="/guest_assets/index7.html">Home V7</a></li>
-              <li><a href="/guest_assets/index8.html">Home V8</a></li>
-              <li><a href="/guest_assets/index9.html">Home V9</a></li>
-              <li><a href="/guest_assets/index10.html">Home V10</a></li>
+              <li><a href="/guest_assets/index1.html">Dashboard V1</a></li>
+              <li><a href="/guest_assets/index2.html">Dashboard V2</a></li>
+              <li><a href="/guest_assets/index3.html">Dashboard V3</a></li>
+              <li><a href="/guest_assets/index4.html">Dashboard V4</a></li>
+              <li><a href="/guest_assets/index5.html">Dashboard V5</a></li>
+              <li><a href="/guest_assets/index6.html">Dashboard V6</a></li>
+              <li><a href="/guest_assets/index7.html">Dashboard V7</a></li>
+              <li><a href="/guest_assets/index8.html">Dashboard V8</a></li>
+              <li><a href="/guest_assets/index9.html">Dashboard V9</a></li>
+              <li><a href="/guest_assets/index10.html">Dashboard V10</a></li>
             </ul>
           </li>
           <li class="megamenu_style"> <a href="/guest_assets/#"><span class="title">Shop</span></a>
@@ -1265,18 +1265,18 @@
     <!-- /.mobile-menu -->
     <nav id="menu" class="stylehome1">
       <ul>
-        <li><span>Home</span>
+        <li><span>Dashboard</span>
           <ul>
-            <li><a href="/guest_assets/index1.html">Home V1</a></li>
-            <li><a href="/guest_assets/index2.html">Home V2</a></li>
-            <li><a href="/guest_assets/index3.html">Home V3</a></li>
-            <li><a href="/guest_assets/index4.html">Home V4</a></li>
-            <li><a href="/guest_assets/index5.html">Home V5</a></li>
-            <li><a href="/guest_assets/index6.html">Home V6</a></li>
-            <li><a href="/guest_assets/index7.html">Home V7</a></li>
-            <li><a href="/guest_assets/index8.html">Home V8</a></li>
-            <li><a href="/guest_assets/index9.html">Home V9</a></li>
-            <li><a href="/guest_assets/index10.html">Home V10</a></li>
+            <li><a href="/guest_assets/index1.html">Dashboard V1</a></li>
+            <li><a href="/guest_assets/index2.html">Dashboard V2</a></li>
+            <li><a href="/guest_assets/index3.html">Dashboard V3</a></li>
+            <li><a href="/guest_assets/index4.html">Dashboard V4</a></li>
+            <li><a href="/guest_assets/index5.html">Dashboard V5</a></li>
+            <li><a href="/guest_assets/index6.html">Dashboard V6</a></li>
+            <li><a href="/guest_assets/index7.html">Dashboard V7</a></li>
+            <li><a href="/guest_assets/index8.html">Dashboard V8</a></li>
+            <li><a href="/guest_assets/index9.html">Dashboard V9</a></li>
+            <li><a href="/guest_assets/index10.html">Dashboard V10</a></li>
           </ul>
         </li>
         <li><span>Shop</span>
@@ -1380,14 +1380,14 @@
           </ul>
         </li>
         <li class="title my-3 bb1 pl20 fz20 fw500 pb-3">Departments</li>
-        <li><span><i class="flaticon-cooking mr20"></i>Home & Kitchen</span>
+        <li><span><i class="flaticon-cooking mr20"></i>Dashboard & Kitchen</span>
           <ul>
-            <li><a href="/guest_assets/page-shop-list-v1.html">Home & Kitchen</a></li>
+            <li><a href="/guest_assets/page-shop-list-v1.html">Dashboard & Kitchen</a></li>
           </ul>
         </li>
-        <li><span><i class="flaticon-armchair mr20"></i>Home & Furniture</span>
+        <li><span><i class="flaticon-armchair mr20"></i>Dashboard & Furniture</span>
           <ul>
-            <li><a href="/guest_assets/page-shop-list-v1.html">Home & Furniture</a></li>
+            <li><a href="/guest_assets/page-shop-list-v1.html">Dashboard & Furniture</a></li>
           </ul>
         </li>
         <li><span><i class="flaticon-smartphone-1 mr20"></i>Electronics</span>
@@ -1431,13 +1431,13 @@
     </nav>
   </div>
   <div class="body_content_wrapper position-relative pt30">
-    <!-- Home Design -->
+    <!-- Dashboard Design -->
     <section class="home-one">
       <div class="container maxw1800">
         <div class="row">
           <div class="col-xl-8 col-xxl-9">
             <div class="banner_one home1_style title_wa home4_main_banner mb30">
-              <div class="thumb"><img src="/guest_assets/images/banner/home4-hero-banner.png" alt="Banner"></div>
+              <div class="thumb"><img src="/guest_assets/images/banner/dashboard4-hero-banner.png" alt="Banner"></div>
               <div class="details">
                 <h3 class="title">MacBook Pro</h3>
                 <h4 class="subtitle mb20">Supercharged for pros</h4>
@@ -2621,7 +2621,7 @@
                 <button class="nav-link" id="nav-tabtvs-tab" data-bs-toggle="tab" data-bs-target="#nav-tabtvs" role="tab" aria-controls="nav-tabtvs" aria-selected="false">TV’s</button>
                 <button class="nav-link" id="nav-gamingpc-tab" data-bs-toggle="tab" data-bs-target="#nav-gamingpc" role="tab" aria-controls="nav-gamingpc" aria-selected="false">Pc Gaming</button>
                 <button class="nav-link" id="nav-videogame-tab" data-bs-toggle="tab" data-bs-target="#nav-videogame" role="tab" aria-controls="nav-videogame" aria-selected="false">Video Games</button>
-                <button class="nav-link me-0" id="nav-homeaudio-tab" data-bs-toggle="tab" data-bs-target="#nav-homeaudio" role="tab" aria-controls="nav-homeaudio" aria-selected="false">Home Audio</button>
+                <button class="nav-link me-0" id="nav-homeaudio-tab" data-bs-toggle="tab" data-bs-target="#nav-homeaudio" role="tab" aria-controls="nav-homeaudio" aria-selected="false">Dashboard Audio</button>
               </div>
             </div>
           </div>
@@ -3758,7 +3758,7 @@
                         </div>
                         <div class="details">
                           <div class="sub_title">Eastsport</div>
-                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Homes & Gardens Light Grey Upholstered 29 inch</a></div>
+                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Dashboards & Gardens Light Grey Upholstered 29 inch</a></div>
                           <div class="review d-flex justify-content-center justify-content-sm-start">
                             <ul class="mb0 me-2">
                               <li class="list-inline-item"><a href="/guest_assets/#"><i class="fas fa-star"></i></a></li>
@@ -3926,7 +3926,7 @@
                         </div>
                         <div class="details">
                           <div class="sub_title">Eastsport</div>
-                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Homes & Gardens Light Grey Upholstered 29 inch</a></div>
+                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Dashboards & Gardens Light Grey Upholstered 29 inch</a></div>
                           <div class="review d-flex justify-content-center justify-content-sm-start">
                             <ul class="mb0 me-2">
                               <li class="list-inline-item"><a href="/guest_assets/#"><i class="fas fa-star"></i></a></li>
@@ -4094,7 +4094,7 @@
                         </div>
                         <div class="details">
                           <div class="sub_title">Eastsport</div>
-                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Homes & Gardens Light Grey Upholstered 29 inch</a></div>
+                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Dashboards & Gardens Light Grey Upholstered 29 inch</a></div>
                           <div class="review d-flex justify-content-center justify-content-sm-start">
                             <ul class="mb0 me-2">
                               <li class="list-inline-item"><a href="/guest_assets/#"><i class="fas fa-star"></i></a></li>
@@ -4262,7 +4262,7 @@
                         </div>
                         <div class="details">
                           <div class="sub_title">Eastsport</div>
-                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Homes & Gardens Light Grey Upholstered 29 inch</a></div>
+                          <div class="title"><a href="/guest_assets/page-shop-single-v1.html">Better Dashboards & Gardens Light Grey Upholstered 29 inch</a></div>
                           <div class="review d-flex justify-content-center justify-content-sm-start">
                             <ul class="mb0 me-2">
                               <li class="list-inline-item"><a href="/guest_assets/#"><i class="fas fa-star"></i></a></li>
@@ -6983,7 +6983,7 @@
               <h4>Services</h4>
               <ul class="list-unstyled">
                 <li><a href="/guest_assets/#">Geek Squad</a></li>
-                <li><a href="/guest_assets/#">In-Home Advisor</a></li>
+                <li><a href="/guest_assets/#">In-Dashboard Advisor</a></li>
                 <li><a href="/guest_assets/#">Trade-In Program</a></li>
                 <li><a href="/guest_assets/#">Electronics Recycling</a></li>
                 <li><a href="/guest_assets/#">Best Buy Health</a></li>
@@ -7060,7 +7060,7 @@
         </div>
       </div>
     </section>
-    <a class="scrollToHome" href="/guest_assets/#"><i class="fas fa-angle-up"></i></a> </div>
+    <a class="scrollToDashboard" href="/guest_assets/#"><i class="fas fa-angle-up"></i></a> </div>
 </div>
 <!-- Wrapper End -->
 <script src="/guest_assets/js/jquery-3.6.0.js"></script>
